@@ -1,0 +1,17 @@
+img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 15px 15px 15px 15px;
+    border: 2px solid black;
+}
+
+h1{
+    padding-top: 15px;
+    margin-bottom: -30px;
+    font-size: 75px;
+}
+
+h3{
+    font-size: 37px;
+}
